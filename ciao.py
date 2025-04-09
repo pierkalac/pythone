@@ -1,1 +1,1 @@
-Ciao a tutti... sono Pigi
+print("Ciao a tutti... sono Pigi")
